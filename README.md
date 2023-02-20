@@ -6,7 +6,7 @@ Vincenzo D'Amico
 
 ### Installing
 
-* clone this project with command:
+* clone project with command:
 ```
 git clone https://github.com/jambaleoma/cb-blogs-01.git
 ```
