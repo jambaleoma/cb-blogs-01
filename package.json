@@ -1,0 +1,19 @@
+{
+    "name": "cb-blogs-01",
+    "version": "1.0.0",
+    "author": "Vincenzo D'Amico (jambaleoma)",
+    "homepage": "https://github.com/jambaleoma/cb-blogs-01#readme",
+    "main": "index.js",
+    "private": false,
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jambaleoma/cb-blogs-01.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jambaleoma/cb-blogs-01/issues"
+    },
+    "dependencies": {
+        "bootstrap": "^5.2.3"
+    }
+}

@@ -10,5 +10,9 @@ Vincenzo D'Amico
 ```
 git clone https://github.com/jambaleoma/cb-blogs-01.git
 ```
+* install dependencies with command:
+```
+npm i
+```
 ### Executing program
 Run the application by opening the index.html file
